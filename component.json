@@ -1,0 +1,7 @@
+{
+  "name": "detect",
+  "description": "获取用户的操作系统和浏览器信息",
+  "version": "1.0.0",
+  "keywords": ["ua", "os", "browser"],
+  "scripts": ["index.js"]
+}
